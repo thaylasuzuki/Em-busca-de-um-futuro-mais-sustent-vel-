@@ -1,4 +1,4 @@
-# Em buscab de um futuro mais sustentável
+# Em busca de um futuro mais sustentável
 
 ## Descrição: 
 O presente projeto reflete sobre a agricultura sustentável através de um site educativo acessível a todas as pessoas que buscam conhecimento e colaborar com a preservação do meio ambiente.
