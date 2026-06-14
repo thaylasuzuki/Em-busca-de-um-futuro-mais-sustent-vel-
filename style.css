@@ -1,0 +1,186 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behavior:smooth;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/*colorir a frase*/
+
+body{
+    background:#f5f7fa;
+    color:#222;
+}
+/*colorir a frase*/
+header{
+    background:#0f172a;
+    padding:20px;
+    position:sticky;
+    top:0;
+    z-index:1000;
+}
+/*c*/
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+/*colorir o fundo*/
+nav h1{
+    color:white;
+}
+/*posionamento da frase*/
+nav ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+}
+/*esta colorindo a transição de cor*/
+nav a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+/*colorir a transiçãp de cor*/
+nav a:hover{
+    color:#ffb703;
+}
+/*posionamento da imagem do plante terra ao fundo*/
+.hero{
+    height:90vh;
+    background:
+        linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+        url("img/planetaterra.png");
+    background-size: cover;
+    background-position: center;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    color:white;
+}
+/*faz as frase ficarem em negrito*/
+.hero h2{
+    font-size:3rem;
+}
+/*faz as frase ficarem em negrito*/
+.hero p{
+    margin:20px 0;
+    font-size:1.2rem;
+}
+/*colorir a frase*/
+button{
+    background:#ff8800;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    cursor:pointer;
+    border-radius:8px;
+    font-size:1rem;
+}
+/*colorir a frase*/
+button:hover{
+    background:#ff6b00;
+}
+/*colorir a frase*/
+.container{
+    padding:80px 10%;
+}
+/*faz as frase ficarem em negrito*/
+.container h2{
+    text-align:center;
+    margin-bottom:40px;
+}
+/*local onde fica os cards*/
+.grid,
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+}
+/*borda das cards*/
+.card{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 4px 15px rgba(0,0,0,.1);
+    transition:.3s;
+}
+/**/
+.card:hover{
+    transform:translateY(-10px);
+}
+/*detalher coloridos*/
+.card i{
+    font-size:40px;
+    color:#ff8800;
+    margin-bottom:15px;
+}
+/*local onde mostra as fotos*/
+.galeria{
+    text-align:center;
+    padding:60px;
+    background:#e9eef5;
+}
+/*local da foto*/
+.imagens{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+}
+/*local da foto*/
+.imagens img{
+    width:350px;
+    border-radius:15px;
+    transition:.4s;
+}
+/*local da foto*/
+.imagens img:hover{
+    transform:scale(1.05);
+}
+/*colorir a frase*/
+.timeline{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+}
+/*cor das cards*/
+.evento{
+    background:white;
+    padding:20px;
+    border-left:6px solid #ff8800;
+    box-shadow:0 4px 10px rgba(0,0,0,.1);
+}
+/*cor de fundo das cards*/
+.impacto-box{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 4px 15px rgba(0,0,0,.1);
+    margin-bottom:30px;
+}
+/*faz as frase ficarem em negrito*/
+.impacto-box ul{
+    line-height:2;
+}
+/*frase de curiosidade cor*/
+#curiosidade{
+    margin-top:20px;
+    font-size:1.2rem;
+    font-weight:bold;
+    text-align:center;
+    color:#0f172a;
+}
+/*posicionamento do video*/
+.video {
+    width: 640px;
+    margin: 0px auto 0 auto; /*px do topo e centralizado */
+}
+footer{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
