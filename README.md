@@ -14,13 +14,13 @@ Conscientizar as pessoas sobre a interdependência entre agricultura, tecnologia
 ## Instruções de uso:
 - Entre no site e deslize para baixo ou utilize os botões a cima para chegar a cada tópico;
 - Leia os subtítulos presentes no site:
-  -Conceito de Agricultura Sustentável;
-  -Imagens que refletem a Agricultura Sustentável;
-  -Benefícios do cultivo consciente;
-  -Principais desafios das práticas agrícolas ecológicas;
-  -Soluções sustentáveis;
-  -Benefícios que a agricultura sustentável proporciona para as pessoas e o meio ambiente;
-  -Curiosidades sobre sistemas agrícolas equilibrados;
+  - Conceito de Agricultura Sustentável;
+  - Imagens que refletem a Agricultura Sustentável;
+  - Benefícios do cultivo consciente;
+  - Principais desafios das práticas agrícolas ecológicas;
+  - Soluções sustentáveis;
+  - Benefícios que a agricultura sustentável proporciona para as pessoas e o meio ambiente;
+  - Curiosidades sobre sistemas agrícolas equilibrados;
 - Assista o vídeo educativo sobre sustentabilidade com recursos de acessibilidade sobre.
 
 ## Ferramentas de acessibilidade:
