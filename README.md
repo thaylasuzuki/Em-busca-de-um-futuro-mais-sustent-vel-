@@ -24,12 +24,12 @@ Conscientizar as pessoas sobre a interdependência entre agricultura, tecnologia
 - Vídeo educativo com recursos de acessibilidade sobre sustentabilidade.
 
 ## Ferramentas de acessibilidade:
-Vídeo legendado para pessoas surdas;
-Vídeo com tradução em libras.
+- Vídeo legendado para pessoas surdas;
+- Vídeo com tradução em libras.
 
 ## Design:
 O design apresenta uma estrutura simples, objetiva e organizada, priorizando a clareza visual e evitando elementos desnecessários que possam comprometer a experiência do usuário.
 ## Linguagens:
-Estrutura: HTML 
-Design: CSS 
-Script: Java
+- Estrutura: HTML 
+- Design: CSS 
+- Script: Java
