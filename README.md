@@ -21,7 +21,7 @@ Conscientizar as pessoas sobre a interdependência entre agricultura, tecnologia
   - Soluções sustentáveis;
   - Benefícios que a agricultura sustentável proporciona para as pessoas e o meio ambiente;
 - Clique no botão "curiosidades" para encontrar fatos surpreendentes sobre sistemas agrícolas equilibrados;
-- Assista o vídeo educativo sobre sustentabilidade com recursos de acessibilidade sobre.
+- Assista o vídeo educativo sobre sustentabilidade com recursos de acessibilidade.
 
 ## Ferramentas de acessibilidade:
 - Vídeo legendado para pessoas surdas;
